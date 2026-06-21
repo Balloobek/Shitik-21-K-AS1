@@ -83,6 +83,9 @@ docker run -d -p 8000:8000 --name shitik-app shitik-fastapi
 
 > Результат: http://localhost:8000
 
+!(sc/1.png)
+
+
 ---
 
 ### 4. Docker Hub
