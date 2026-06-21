@@ -83,7 +83,9 @@ docker run -d -p 8000:8000 --name shitik-app shitik-fastapi
 
 > Результат: http://localhost:8000
 
-!(sc/1.png)
+![](sc/1.png)
+![](sc/2.png)
+![](sc/3.png)
 
 
 ---
@@ -128,7 +130,7 @@ minikube service fastapi-svc -n 21-k-as1-lab --url
 ```
 
 > Результат: 2 реплики запущены, сервис доступен
-
+![](sc/4.png)
 ---
 
 ### 6. Terraform (Yandex Cloud)
@@ -148,12 +150,12 @@ terraform plan
 terraform apply
 terraform output external_ip
 ```
-
-**Проверка:**
-
-
-
-> Результат: JSON ответ от сервиса
+![](sc/7.png)
+![](sc/8.png)
+![](sc/9.png)
+![](sc/10.png)
+![](sc/11.png)
+![](sc/12.png)
 
 ---
 
