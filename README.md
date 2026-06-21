@@ -30,30 +30,6 @@
 
 ---
 
-## 📁 Структура проекта
-
-```
-Shitik-21-K-AS1/
-├── app/                    # FastAPI приложение
-│   ├── main.py            
-│   ├── requirements.txt   
-│   ├── Dockerfile         
-│   └── test_main.py      
-├── k8s/                    # Kubernetes манифесты
-│   ├── namespace.yaml     
-│   ├── deployment.yaml    
-│   └── service.yaml       
-├── terraform/              # Yandex Cloud IaC
-│   ├── main.tf            
-│   ├── variables.tf       
-│   └── user_data.sh       
-├── scripts/                # Вспомогательные скрипты
-├── .gitignore
-└── README.md               # Отчет
-```
-
----
-
 ## 🚀 Этапы выполнения
 
 ### 1. Установка необходимого ПО
