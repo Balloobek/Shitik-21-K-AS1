@@ -159,6 +159,7 @@ terraform output external_ip
 ![](sc/13.png)
 ![](sc/14.png)
 ![](sc/15.png)
+![](sc/16.png)
 
 ---
 
